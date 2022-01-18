@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472447596 source:g:\studies\4-1\cse 410\task1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+

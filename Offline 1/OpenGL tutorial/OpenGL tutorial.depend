@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1615559032 source:g:\studies\4-1\cse 410\opengl tutorial\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1472499032 c:\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

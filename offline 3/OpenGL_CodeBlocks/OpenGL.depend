@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1472447596 source:g:\studies\4-1\cse 410\offline essentials\opengl\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 g:\studies\4-1\cse 410\offline essentials\opengl\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1615928773 source:g:\studies\4-1\cse 410\offline essentials\opengl\task2\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 g:\studies\4-1\cse 410\offline essentials\opengl\task2\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1615929594 source:e:\studies\4-1\cse 410\offline 1\task2\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 e:\studies\4-1\cse 410\offline 1\task2\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1625388590 source:e:\studies\4-1\cse 410\offline 3\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<bits/stdc++.h>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	"1605020_classes.h"
+	"bitmap_image.hpp"
+
+1392007564 e:\studies\4-1\cse 410\offline 3\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1625376469 e:\studies\4-1\cse 410\offline 3\opengl_codeblocks\1605020_classes.h
+
+1492200750 e:\studies\4-1\cse 410\offline 3\opengl_codeblocks\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
